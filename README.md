@@ -3,9 +3,7 @@
 ## About the Project
 
 This project explores the fundamentals of Computer Vision through a Rock-Paper-Scissors image classification model built using **Convolutional Neural Networks (CNNs)**.
-
-Developed as part of the **Elements of AI coursework**, the project focuses on enabling machines to recognise and classify hand gestures by learning visual patterns from image data.
-
+The project focuses on enabling machines to recognise and classify hand gestures by learning visual patterns from image data.
 The model uses supervised learning to classify images into three categories: Rock, Paper and Scissors.
 
 ## Dataset
